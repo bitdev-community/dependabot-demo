@@ -4,7 +4,7 @@
   "homepage": "https://bit.cloud/learnbit/feature-branch-ga-demo/pages/contact-page",
   "main": "dist/index.js",
   "dependencies": {
-    "@showoff/contact-me.ui.artwork": "0.0.39",
+    "@showoff/contact-me.ui.artwork": "0.0.38",
     "@showoff/contact-me.ui.contact-form": "0.0.35",
     "@showoff/design.layouts.margin": "0.0.24",
     "@showoff/design.navigation.breadcrumb": "0.0.39",
