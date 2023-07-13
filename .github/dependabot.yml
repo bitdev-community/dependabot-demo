@@ -13,10 +13,6 @@ updates:
       interval: "daily"
     versioning-strategy: lockfile-only
     groups:
-       # Specify a name for the group, which will be used in pull request titles
-       # and branch names
       showoff-scope-dependencies:
-          # Define patterns to include dependencies in the group (based on
-          # dependency name)
           patterns:
             - "@showoff*"
