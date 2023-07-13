@@ -4,8 +4,7 @@
   "homepage": "https://bit.cloud/learnbit/feature-branch-ga-demo/pages/contact-page",
   "main": "dist/index.js",
   "dependencies": {
-    "@showoff/contact-me.ui.artwork": "0.0.30",
-    "@showoff/contact-me.ui.contact-form": "0.0.35",
+    "@showoff/contact-me.ui.contact-form": "0.0.34",
     "@showoff/design.layouts.margin": "0.0.24",
     "@showoff/design.navigation.breadcrumb": "0.0.39",
     "@showoff/design.navigation.link-text": "0.0.47",
@@ -13,15 +12,14 @@
     "@showoff/personal-portfolio.ui.social.icons": "0.0.16"
   },
   "devDependencies": {
-    "@testing-library/react": "13.4.0",
     "@showoff/design.brand.logo": "0.0.48",
-    "@showoff/personal-portfolio.layouts.main": "0.0.52",
     "@showoff/design.theme.light-theme": "0.0.30",
     "@showoff/design.theme.theme-provider": "0.0.33",
     "@showoff/dev.preview-contexts.mui-preview-context": "0.0.2",
     "@learnbit/feature-branch-ga-demo.envs.react-env": "0.0.1"
   },
   "peerDependencies": {
+    "@testing-library/react": "13.4.0",
     "react": "^18.0.0",
     "@mui/material": "^5.11.0",
     "react-router-dom": "^6.0.2"
