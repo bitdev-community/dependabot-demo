@@ -13,7 +13,6 @@
     "@showoff/personal-portfolio.ui.social.icons": "0.0.16"
   },
   "devDependencies": {
-    "@types/react": "^18.0.0",
     "@testing-library/react": "13.4.0",
     "@showoff/design.brand.logo": "0.0.48",
     "@showoff/personal-portfolio.layouts.main": "0.0.52",
