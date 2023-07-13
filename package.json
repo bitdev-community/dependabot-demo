@@ -9,20 +9,20 @@
     "@showoff/design.navigation.breadcrumb": "0.0.39",
     "@showoff/design.navigation.link-text": "0.0.47",
     "@showoff/design.typography.typography": "0.0.36",
-    "@showoff/personal-portfolio.ui.social.icons": "0.0.16",
-    "@showoff/personal-portfolio.layouts.main": "0.0.52"
+    "@showoff/personal-portfolio.layouts.main": "0.0.52",
+    "@showoff/personal-portfolio.ui.social.icons": "0.0.16"
   },
   "devDependencies": {
+    "@learnbit/feature-branch-ga-demo.envs.react-env": "0.0.1",
     "@showoff/design.brand.logo": "0.0.48",
     "@showoff/design.theme.light-theme": "0.0.30",
     "@showoff/design.theme.theme-provider": "0.0.33",
-    "@showoff/dev.preview-contexts.mui-preview-context": "0.0.2",
-    "@learnbit/feature-branch-ga-demo.envs.react-env": "0.0.1"
+    "@showoff/dev.preview-contexts.mui-preview-context": "0.0.2"
   },
   "peerDependencies": {
+    "@mui/material": "^5.11.0",
     "@testing-library/react": "13.4.0",
     "react": "^18.0.0",
-    "@mui/material": "^5.11.0",
     "react-router-dom": "^6.0.2"
   },
   "license": "SEE LICENSE IN LICENSE",
