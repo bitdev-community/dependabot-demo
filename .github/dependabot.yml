@@ -14,5 +14,5 @@ updates:
     versioning-strategy: lockfile-only
     groups:
       showoff-scope-dependencies:
-          patterns:
-            - "@showoff*"
+         patterns:
+           - "@showoff*"
