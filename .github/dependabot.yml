@@ -14,4 +14,4 @@ updates:
     groups:
       showoff-scope-dependencies:
          patterns:
-           - "@showoff*"
+           - "*showoff*"
