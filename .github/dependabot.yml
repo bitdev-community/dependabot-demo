@@ -2,9 +2,8 @@ version: 2
 registries:
   bit-components:
     type: npm-registry
-    url: https://node.bit.dev
+    url: https://node-registry.bit.cloud
     token: ${{secrets.BIT_TOKEN}}
-    replaces-base: true
 updates:
   - package-ecosystem: "npm"
     directory: "/"
