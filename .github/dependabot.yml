@@ -4,6 +4,7 @@ registries:
     type: npm-registry
     url: https://node-registry.bit.cloud
     token: ${{secrets.BIT_TOKEN}}
+    replaces-base: true
 updates:
   - package-ecosystem: "npm"
     directory: "/"
@@ -14,4 +15,4 @@ updates:
     groups:
       showoff-scope-dependencies:
          patterns:
-           - "*showoff*"
+           - "@showoff*"
