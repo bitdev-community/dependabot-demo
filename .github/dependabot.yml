@@ -2,7 +2,7 @@ version: 2
 registries:
   bit-components:
     type: npm-registry
-    url: https://node-registry.bit.cloud
+    url: https://node.bit.dev
     token: ${{secrets.BIT_TOKEN}}
     replaces-base: true
 updates:
