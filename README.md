@@ -8,16 +8,9 @@ A demo of using Dependabot to install newer versions of Bit Component dependenci
 
 ```
 version: 2
-registries:
-  bit-components:
-    type: npm-registry
-    url: https://node-registry.bit.cloud
-    token: ${{secrets.BIT_TOKEN}}
 updates:
   - package-ecosystem: "npm"
     directory: "/"
-    registries:
-      - bit-components
     schedule:
       interval: "daily"
     groups:
