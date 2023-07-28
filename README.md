@@ -12,7 +12,6 @@ Below are the steps to set up Dependabot for your Bit project:
 2. Create a secret named `BIT_CONFIG_USER_TOKEN` under "Secrets and variables" -> "Dependabot".
 3. The value for this secret should be your Bit user token, which you can retrieve by running `bit config get user.token` in your terminal.
 
-
 ## Step 2: Configure Dependabot for Bit
 
 Create a file named `dependabot.yml` under the .github directory and add the following configuration:
