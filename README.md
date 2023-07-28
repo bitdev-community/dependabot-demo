@@ -44,7 +44,7 @@ registry=https://registry.npmjs.org/
 @learnbit:registry=https://node-registry.bit.cloud
 @bit:registry=https://node.bit.cloud
 @teambit:registry=https://node-registry.bit.cloud
-//node.bit.cloud/:_authToken=${BIT_TOKEN}
+//node.bit.cloud/:_authToken=${BIT_CONFIG_USER_TOKEN}
 ```
 
 **Note:** The above configuration includes registries that the example projects (`@showoff` and `@learnbit`) use.
