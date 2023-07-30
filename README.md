@@ -4,7 +4,9 @@ This repository demonstrates how to use Dependabot to install newer versions of 
 - [Dependabot Config](https://github.com/bitdev-community/dependabot-demo/blob/main/.github/dependabot.yml)
 - [Dependabot Results](https://github.com/bitdev-community/dependabot-demo/network/updates)
 
-Below are the steps to set up Dependabot for your Bit project:
+Below are the steps to set up Dependabot for your Bit project.
+
+**Note:** Your project should include a package.json for dependabot to work.
 
 ## Step 1: Set Up Dependabot Secret
 
