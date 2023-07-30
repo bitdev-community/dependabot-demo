@@ -6,7 +6,7 @@ This repository demonstrates how to use Dependabot to install newer versions of 
 
 Below are the steps to set up Dependabot for your Bit project.
 
-**Note:** Your project should include a package.json for dependabot to work.
+**Note:** Your project should include a `package.json` for dependabot to work.
 
 ## Step 1: Set Up Dependabot Secret
 
